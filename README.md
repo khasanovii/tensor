@@ -8,7 +8,7 @@
   Open Console (CMD)<br/>
   And open downloading folder<br/>
   There pip install selenium<br/>
-  Download webdriver for Firefox<br/>
+  Download webdriver for <a href="https://github.com/mozilla/geckodriver/releases">Firefox</a><br/>
   python base.py
 </p>
 
